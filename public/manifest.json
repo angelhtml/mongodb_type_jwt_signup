@@ -1,0 +1,37 @@
+{
+    "name": "Gery Games",
+    "short_name": "Gery Games",
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#0ff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/favicon/favicon-16x16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/favicon/favicon-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/favicon/maskable_icon48x48.png",
+        "sizes": "48x48",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/favicon/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/favicon/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
